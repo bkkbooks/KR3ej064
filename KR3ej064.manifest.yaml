@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej064/v1
 canonical_location: https://kanripo.org/bkk/KR3ej064/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: （痘疹）生民切要
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej064_000.yaml, hash: 'sha256:f8464f32ec807d7fbbbbe02c3204c2908bb3a04b5d491352493761264c4e4a64'}
-  - {seq: 1, filename: KR3ej064_001.yaml, hash: 'sha256:514d1b975432f33122cdede7c6ec1f0f53237017d1f92670b14d7f5a6452ae9c'}
-  - {seq: 3, filename: KR3ej064_003.yaml, hash: 'sha256:5513b5a991133915606650ad003281bf987fd55e7b85bd1c1ab339fcc0a2ef5d'}
+  - {seq: 0, filename: KR3ej064_000.yaml, hash: 'sha256:5b592e3358072d215d519ecfba6fd93d8470b0d812571dfc27ae74e913822927'}
+  - {seq: 1, filename: KR3ej064_001.yaml, hash: 'sha256:dad0634362891f8cb850230deea283441b469b04979ba754f95cdd7c33e7236d'}
+  - {seq: 3, filename: KR3ej064_003.yaml, hash: 'sha256:a153a16f9687d9bc34c61130a024d1a93c2cc209b9511ab894e7e26a842bf125'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej064_000.markers.yaml, hash: 'sha256:7e9059794ae258506a4079a06803d50e8e05999491235d618234fea7ca9eeb65'}
-  - {seq: 1, role: markers, filename: assets/KR3ej064_001.markers.yaml, hash: 'sha256:da1beb42f63480af36b6a72e42b36068f00697202b75501db408eb93147ebfbb'}
-  - {seq: 3, role: markers, filename: assets/KR3ej064_003.markers.yaml, hash: 'sha256:c2ff1394f62e2e04ac380277211ebab16928f1d2a0f383f5cd33080bc1bb37d7'}
+  - {seq: 0, role: markers, filename: assets/KR3ej064_000.markers.yaml, hash: 'sha256:4dc8f989e72f8cf0ac374b6481e6297d1ca0e9853be75125ff9751c679bf16a5'}
+  - {seq: 1, role: markers, filename: assets/KR3ej064_001.markers.yaml, hash: 'sha256:7c9936805757efd12540aeb6f683097693f1ae28839af0b0fb28ef67e7ac77f9'}
+  - {seq: 3, role: markers, filename: assets/KR3ej064_003.markers.yaml, hash: 'sha256:05e636a0715d227546ce7a00c75f210c9df3155b3320129bc8de317325a72cb3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1015,4 +1015,7 @@ table_of_contents:
   label: 景岳全書麻疹門後
   type: section
   level: 4
-hash: sha256:913ef16bf11d09f2589cbe4ccdca018fcc1b5e58349993661cdc46870417f993
+hash: sha256:5ab7dcfadd5aaf1287d2af95038b286ff58608c67542768823180be2983ec977
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
