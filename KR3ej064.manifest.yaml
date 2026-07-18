@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3ej064_003.yaml, hash: 'sha256:a153a16f9687d9bc34c61130a024d1a93c2cc209b9511ab894e7e26a842bf125'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ej064_000.markers.yaml, hash: 'sha256:4dc8f989e72f8cf0ac374b6481e6297d1ca0e9853be75125ff9751c679bf16a5'}
-  - {seq: 1, role: markers, filename: assets/KR3ej064_001.markers.yaml, hash: 'sha256:7c9936805757efd12540aeb6f683097693f1ae28839af0b0fb28ef67e7ac77f9'}
-  - {seq: 3, role: markers, filename: assets/KR3ej064_003.markers.yaml, hash: 'sha256:05e636a0715d227546ce7a00c75f210c9df3155b3320129bc8de317325a72cb3'}
+  - {seq: 1, role: markers, filename: assets/KR3ej064_001.markers.yaml, hash: 'sha256:f4f371ccdd0de54703770ffb8ec8ba3c128adff8eb66371d1a4fe3b1fd8104eb'}
+  - {seq: 3, role: markers, filename: assets/KR3ej064_003.markers.yaml, hash: 'sha256:97743c684e1978b4d7fd724d4208daadd61ca96de2622e2ad71e7b8b39677745'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1015,7 +1015,7 @@ table_of_contents:
   label: 景岳全書麻疹門後
   type: section
   level: 4
-hash: sha256:5ab7dcfadd5aaf1287d2af95038b286ff58608c67542768823180be2983ec977
+hash: sha256:fe71f01f3ef6ef551c22d0fe3c3b71c5153188795590a22bd6ee01485af37696
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
